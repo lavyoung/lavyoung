@@ -23,13 +23,13 @@ Here are some ideas to get you started:
     </a>
   </div>
 
-  <div align="center"> <img width=1000 src="https://github-readme-streak-stats.herokuapp.com/?user=Lavigne-yang" /> </div>
+  <div align="center"> <img width=1000 src="https://github-readme-streak-stats.herokuapp.com/?user=lavyoung" /> </div>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lavigne-yang&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lavyoung&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lavigne-yang&layout=compact&langs_count=12&card_width=300g&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavyoung&layout=compact&langs_count=12&card_width=300g&theme=radical" />
   </a>
 </div>
 
