@@ -67,45 +67,6 @@
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/lavyoung?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/lavyoung?style=for-the-badge&logo=github&label=Total%20Stars" />
-
-</div>
-
-> I prefer showcasing **projects, architecture, and engineering focus** over raw contribution numbers.
-
----
-
-## 📦 Featured Repositories
-
-> Replace the repository names below with your real repos.
-
-### AI Platform
-<p>
-  <a href="https://github.com/lavyoung/linkllm">
-    <img src="https://img.shields.io/github/stars/lavyoung/linkllm?style=flat-square&logo=github&label=stars" />
-  </a>
-  <img src="https://img.shields.io/github/forks/lavyoung/linkllm?style=flat-square&logo=github&label=forks" />
-  <img src="https://img.shields.io/github/last-commit/lavyoung/linkllm?style=flat-square&logo=git&label=last%20commit" />
-  <img src="https://img.shields.io/github/languages/top/lavyoung/linkllm?style=flat-square&label=top%20language" />
-</p>
-
-### Backend Project
-<p>
-  <a href="https://github.com/lavyoung/Renlens">
-    <img src="https://img.shields.io/github/stars/lavyoung/Renlens?style=flat-square&logo=github&label=stars" />
-  </a>
-  <img src="https://img.shields.io/github/forks/lavyoung/Renlens?style=flat-square&logo=github&label=forks" />
-  <img src="https://img.shields.io/github/last-commit/lavyoung/Renlens?style=flat-square&logo=git&label=last%20commit" />
-  <img src="https://img.shields.io/github/languages/top/lavyoung/Renlens?style=flat-square&label=top%20language" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] Ship a usable AI platform MVP
