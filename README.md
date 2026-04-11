@@ -6,9 +6,9 @@
 
 <p>
   <a href="https://github.com/lavyoung">
-    <img src="https://img.shields.io/github/followers/lavyoung?label=Followers&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/lavyoung?style=for-the-badge&logo=github&label=Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lavyoung&style=for-the-badge&color=0e75b6" alt="profile views" />
+  <img src="https://img.shields.io/github/stars/lavyoung?style=for-the-badge&logo=github&label=Total%20Stars" />
   <img src="https://img.shields.io/badge/Focus-Java%20%7C%20AI%20Platform%20%7C%20Backend-1f6feb?style=for-the-badge" />
 </p>
 
@@ -67,32 +67,42 @@
 
 ---
 
-## 🏆 GitHub Highlights
+## 📊 GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lavyoung&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+
+<img src="https://img.shields.io/github/followers/lavyoung?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/lavyoung?style=for-the-badge&logo=github&label=Total%20Stars" />
+
 </div>
+
+> I prefer showcasing **projects, architecture, and engineering focus** over raw contribution numbers.
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Featured Repositories
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lavyoung&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavyoung&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
+> Replace the repository names below with your real repos.
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=lavyoung&theme=tokyonight&hide_border=true" />
-</div>
+### AI Platform
+<p>
+  <a href="https://github.com/lavyoung/linkllm">
+    <img src="https://img.shields.io/github/stars/lavyoung/linkllm?style=flat-square&logo=github&label=stars" />
+  </a>
+  <img src="https://img.shields.io/github/forks/lavyoung/linkllm?style=flat-square&logo=github&label=forks" />
+  <img src="https://img.shields.io/github/last-commit/lavyoung/linkllm?style=flat-square&logo=git&label=last%20commit" />
+  <img src="https://img.shields.io/github/languages/top/lavyoung/linkllm?style=flat-square&label=top%20language" />
+</p>
 
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavyoung&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavyoung&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+### Backend Project
+<p>
+  <a href="https://github.com/lavyoung/Renlens">
+    <img src="https://img.shields.io/github/stars/lavyoung/Renlens?style=flat-square&logo=github&label=stars" />
+  </a>
+  <img src="https://img.shields.io/github/forks/lavyoung/Renlens?style=flat-square&logo=github&label=forks" />
+  <img src="https://img.shields.io/github/last-commit/lavyoung/Renlens?style=flat-square&logo=git&label=last%20commit" />
+  <img src="https://img.shields.io/github/languages/top/lavyoung/Renlens?style=flat-square&label=top%20language" />
+</p>
 
 ---
 
