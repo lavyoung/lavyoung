@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm YongQi Yang 👋
+# Hi, I'm Lavyoung 👋
 
 ### Java Backend Engineer · AI Application Platform Builder · FastAPI / LangChain Explorer
 
