@@ -32,7 +32,3 @@
 - FastAPI 后端架构，PostgreSQL + Redis
 
 ---
-
-## Contact
-
-- GitHub: [lavyoung](https://github.com/lavyoung)
