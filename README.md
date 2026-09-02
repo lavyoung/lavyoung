@@ -8,7 +8,7 @@
 
 - Java 后端工程师，关注分布式系统与工程实践
 - 正在构建 AI 应用平台：模型接入、RAG 知识库、Agent 管理、MCP 集成
-- 正在从 Java 后端拓展到 Python / FastAPI / LangChain / AI 工程
+- 正在从 Java 后端拓展到 AI Agent 工程
 
 ---
 
