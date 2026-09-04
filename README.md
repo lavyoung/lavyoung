@@ -1,34 +1,23 @@
-# Hi, I'm Lavyoung 👋
+# 👋 Hi, I'm Lavyoung
 
 **Java Backend Engineer** · Building an AI application platform
 
 ---
 
-## About
+## 🧭 About
 
-- Java 后端工程师，关注分布式系统与工程实践
-- 正在构建 AI 应用平台：模型接入、RAG 知识库、Agent 管理、MCP 集成
-- 正在从 Java 后端拓展到 AI Agent 工程
-
----
-
-## Tech Stack
-
-`Java` `Spring Boot` `MySQL` `Redis` `RabbitMQ` `Elasticsearch` `Docker` `Linux` `Git`
-
-`Python` `FastAPI` `LangChain` `PostgreSQL`
+- Java 后端工程师，关注分布式系统、高并发架构与工程实践
+- 专注于 AI 应用平台领域：模型接入、RAG 知识库、Agent 管理、MCP 集成
+- 技术兴趣覆盖后端基础设施与 AI Agent 工程化
 
 ---
 
-## Featured Project
+## 🛠️ Tech Stack
 
-### LinkLLM — AI Application Platform
-
-支持模型接入、知识库管理与 Agent 能力扩展的 AI 应用平台。
-
-- 多模型接入，厂商 / 模型可配置
-- RAG 知识库工作流
-- Agent 管理与 MCP 服务集成
-- FastAPI 后端架构，PostgreSQL + Redis
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,rabbitmq,elasticsearch,docker,linux,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql" />
+</div>
 
 ---
